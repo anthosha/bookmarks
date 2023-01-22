@@ -33,7 +33,8 @@
 * 23 [Скачивание видео с Youtube](https://pytube.io/en/latest/);
 * 24 [Узнать кодировку текста](https://pypi.org/project/chardet/);
 * 25 [Библиотека с хэшами](https://docs.python.org/3/library/hashlib.html);
-* 26 [Попиксельное сравнение изображений](https://github.com/dmtrKovalenko/odiff).
+* 26 [Попиксельное сравнение изображений](https://github.com/dmtrKovalenko/odiff);
+* 27 [Непрерывная архивация видео и метаданных ютуб-канала](https://github.com/Owez/yark).
 
 ### 3 Работа компьютера, ЯП, сетей:
 * 01 [Как работает процессор и языки программирования](https://web.archive.org/web/20210802175338/https://bor64.com/2019/03/05/kak-rabotaet-processor-i-jazyki-programmirovanija/)
